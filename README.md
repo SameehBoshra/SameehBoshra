@@ -61,6 +61,6 @@
 
 ###
 
-<img align="Center" height="150" src="https://www.freecoursesandbooks.net/wp-content/uploads/2022/03/18a4949fc9c8067172d3b96e302e7097.gif"  />
+<img align="center" height="150" src="https://www.freecoursesandbooks.net/wp-content/uploads/2022/03/18a4949fc9c8067172d3b96e302e7097.gif"  />
 
 ###

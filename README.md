@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is  Sameeh</h1>
+<h1 align="Center">Hi 👋! My name is  Sameeh</h1>
 
 ###
 
@@ -61,6 +61,6 @@
 
 ###
 
-<img align="right" height="150" src="https://www.freecoursesandbooks.net/wp-content/uploads/2022/03/18a4949fc9c8067172d3b96e302e7097.gif"  />
+<img align="Center" height="150" src="https://www.freecoursesandbooks.net/wp-content/uploads/2022/03/18a4949fc9c8067172d3b96e302e7097.gif"  />
 
 ###

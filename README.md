@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h3 align="center">Backend developer  ||  PHP || Laavel</h3>
+<h3 align="center">Backend developer  ||  PHP || Laravel</h3>
 
 ###
 

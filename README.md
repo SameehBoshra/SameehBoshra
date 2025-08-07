@@ -60,9 +60,3 @@
 <img align="right" height="150" src="https://www.freecoursesandbooks.net/wp-content/uploads/2022/03/18a4949fc9c8067172d3b96e302e7097.gif"  />
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/SameehBoshra/SameehBoshra/output/snake.svg" alt="Snake animation" />
-
-###
